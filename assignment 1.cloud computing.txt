@@ -1,0 +1,53 @@
+  Assignment 1: Cloud Computing
+
+Q1.What is Cloud?
+-->
+1.Cloud computing is the delivery of on demand computing services from applications to storage 
+ and processing power.
+2.it is typically over the internet and on a pay-as-you-go basis.
+
+Q2.advantages of Cloud Computing?
+-->
+1.using cloud services companies not having to buy or maintain their own computing infrastructure.
+
+2.Using cloud services companies can move faster on projects and test out concepts without lengthy procedure
+ and big costs, because firms only pay for the resources they consume.
+
+3.if a new application turns out to be a wildly popular the elastic nature of the cloud means it is easier to  
+ scale it up fast.
+
+Q3.what are the types of cloud computing?
+-->
+there are 3 types.,
+1.private cloud
+2.public cloud
+3.Hybrid cloud
+
+1.private cloud: 
+                 a.it is specific to organization or company,
+                 b.for companies that require additional security for that purpose private cloud may be useful.
+                 c.for example: Reliance jio (they use their own tools).
+
+2.public cloud:
+               a.it is available to everyone.i.e.,company,idividual users etc.
+               b.users can access a large computing power over the internet,
+               c. The cloud computing suppliers have big  amounts of computing power, 
+                   which they share between a large number of customers .
+                d.examples are,Amazone :AWS(Amazone Web Services ,U.s goverment develop private cloud with the help of Amazone.)
+                               Google : GCP
+                              Microsoft :AZURE
+                         ....these all are the vendors.
+
+3.Hybrid cloud: (public cloud + Hybrid cloud)
+                the main reasons for choosing hybrid cloud include disaster recovery planning and the desire to 
+                avoid hardware costs when expanding their existing data center.
+
+Q4.What is EC2?
+-->
+a.full form of EC2 is Elastic Compute Cloud.
+b.Ec2 is part of AWS service.
+c.it is virtual server same as laptop.
+d.it is a web service that provides secure, resizable compute capacity in the cloud. 
+e.It is designed to make web-scale cloud computing easier for developers. 
+f.in EC2 internet is available upto 100GBytes.
+g.in EC2 mainataince,security are done by vendors
